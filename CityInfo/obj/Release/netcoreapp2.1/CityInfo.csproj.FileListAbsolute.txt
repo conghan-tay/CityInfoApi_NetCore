@@ -1,0 +1,5 @@
+D:\Desktop\OneDrive\BeforeSummer2019Learning\AspNetCore\CityInfo\CityInfo\obj\Release\netcoreapp2.1\CityInfo.csproj.CoreCompileInputs.cache
+D:\Desktop\OneDrive\BeforeSummer2019Learning\AspNetCore\CityInfo\CityInfo\obj\Release\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cache
+D:\Desktop\OneDrive\BeforeSummer2019Learning\AspNetCore\CityInfo\CityInfo\obj\Release\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cs
+D:\Desktop\OneDrive\BeforeSummer2019Learning\AspNetCore\CityInfo\CityInfo\obj\Release\netcoreapp2.1\CityInfo.AssemblyInfoInputs.cache
+D:\Desktop\OneDrive\BeforeSummer2019Learning\AspNetCore\CityInfo\CityInfo\obj\Release\netcoreapp2.1\CityInfo.AssemblyInfo.cs
